@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="hello-world"
+>
+  <h1>
+    Hello World
+  </h1>
+  <p>
+    Welcome to my world
+  </p>
+  <span>
+    I am testing
+  </span>
+  <div>
+    Value: 
+    0
+    <button
+      className="decrement"
+      onClick={[Function]}
+    >
+      −
+    </button>
+    <button
+      className="increment"
+      onClick={[Function]}
+    >
+      +
+    </button>
+  </div>
+</div>
+`;
